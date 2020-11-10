@@ -14,10 +14,14 @@ We used several databases containing a lot of information about jobs, titles, sk
 We aggregate in a new dataframe all needed datas from these files. The created dataframe 226493 entry.
 
 The data set features can be summarized as follow:
-● job_id​: a unique index for each type of jobs;
-● Description​: a text describing the job;
-● Title​: The job title;
-● Skill​: The associated skill.
+
+- job_id: a unique index for each type of jobs;
+
+- Description: a text describing the job;
+
+- Title: The job title;
+
+- Skill: The associated skill.
 
 ## Feature Engineering and ETL
 
